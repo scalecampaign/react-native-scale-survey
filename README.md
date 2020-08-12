@@ -1,4 +1,4 @@
-# react-native-simple-survey
+# react-native-scale-survey
 
 ## TOC
 [Changes](#changes)
@@ -43,7 +43,7 @@
 1.2.0 - MultipleSelectionGroup is now supported. 
 
 ## About
-react-native-simple-survey is a super simple way to ask your user questions. Give it some JSON with questions and some callbacks to draw the UI and Simple Survey handles all state management for you, runs the user through your questions, and pops answers out at the end.
+react-native-scale-survey is a fork from https://github.com/devlinb/react-native-simple-survey that has a goal to capture all peperless business forms in mobile format. Give it some JSON with questions and some callbacks to draw the UI and Simple Survey handles all state management for you, runs the user through your questions, and pops answers out at the end.
 
 ## Demo
 See a live demo at https://snack.expo.io/@devlinb/react-native-simple-survey-example-app
